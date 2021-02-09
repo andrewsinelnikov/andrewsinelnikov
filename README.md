@@ -1,8 +1,8 @@
 ## Hi, I'm Andrew Sinelnikov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### About
-I'm Andrew, a web developer currently based in beautiful Lviv. I enjoy building beautiful, cool and useful stuff. <br /> 
-I have both teaching and practical experience of working on real projects and can handle web applications from scratch. I'm excited to work on a task I don't know how to solve.
+I'm a web developer currently based in beautiful Lviv. I enjoy building beautiful, cool and useful stuff. <br /> 
+I have both teaching and practical experience of working on real projects and can handle web applications from scratch. <br />
+I'm excited to work on a task I don't know how to solve.
 
 ### Sills
 Javascript, React, Redux, Styled Components
