@@ -4,7 +4,7 @@ I'm a web developer currently based in beautiful Lviv. I enjoy building beautifu
 I have both teaching and practical experience of working on real projects and can handle web applications from scratch. <br />
 I'm excited to work on a task I don't know how to solve.
 
-### Sills
+### Skills
 Javascript, React, Redux, Styled Components
 
 ### 📫 How to reach me:
