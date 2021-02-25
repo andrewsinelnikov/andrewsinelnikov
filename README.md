@@ -7,7 +7,7 @@ I'm excited to work on a task I don't know how to solve.
 ### Skills
 Javascript, React, Redux, Styled Components
 
-### 📫 How to reach me:
+### 📫 Reach me out:
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)-->
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ansinelnikov@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-sinelnikov-74683b186)
