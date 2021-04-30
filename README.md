@@ -5,7 +5,7 @@ I have both teaching and practical experience of working on real projects and ca
 I'm excited to work on a task I don't know how to solve.
 
 ### Skills
-Javascript, React, Redux, Styled Components
+Javascript, React, Redux, Node.js, MongoDB, Styled Components
 
 <p>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewsinelnikov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />-->
